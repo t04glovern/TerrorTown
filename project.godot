@@ -10,7 +10,8 @@ config_version=5
 
 [application]
 
-config/name="Survivors Clone"
+config/name="TerrorTown"
+config/version="1.0.0"
 run/main_scene="res://TitleScreen/menu.tscn"
 config/features=PackedStringArray("4.2", "Mobile")
 config/icon="res://icon.svg"
@@ -65,4 +66,3 @@ click={
 [rendering]
 
 textures/canvas_textures/default_texture_filter=0
-renderer/rendering_method="mobile"
